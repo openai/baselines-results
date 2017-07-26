@@ -9,7 +9,6 @@
 ![](figures/fig_dqn_Freeway.png)
 ![](figures/fig_dqn_Frostbite.png)
 ![](figures/fig_dqn_Gravitar.png)
-![](figures/fig_dqn_MontezumaRevenge.png)
 ![](figures/fig_dqn_Pitfall.png)
 ![](figures/fig_dqn_Pong.png)
 ![](figures/fig_dqn_PrivateEye.png)
